@@ -220,7 +220,7 @@ return {
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright and edit; @alfroshotak
+--Persian Translate; @max_car
+--ch : @azh_band
 --کپی بدون ذکر منبع حرام است
