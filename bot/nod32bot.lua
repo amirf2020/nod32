@@ -245,14 +245,14 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {134618808},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+https://github.com/amirf2020/nod32
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+devloper : @alfroshotak
+sodu : @alfroshotak
 ]],
     help_text_realm = [[
 Realm Commands:
