@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-send_contact(get_receiver(msg), "+13603353378", "NOD32", "BOT", ok_cb, false)
+send_contact(get_receiver(msg), "به حای ک شماره بگیری کیرمو بخور", "NOD32", "BOT", ok_cb, false)
 end
 
 return {
@@ -13,7 +13,4 @@ run = run
 }
 
 end
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+
