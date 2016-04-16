@@ -3,7 +3,7 @@ do
 function run(msg, matches)
   return 'NOD32-BOT v8'.. VERSION .. [[ 
  
-  Developer : @Balfroshotak
+  Developer : @alfroshotak
   
   Channel : @ub_redteam
   
@@ -16,11 +16,11 @@ function run(msg, matches)
 end
 
 return {
+  }, 
   description = "Shows bot version", 
   usage = "!version: Shows bot version",
   patterns = {
     "^!version$"
-  }, 
   run = run 
 }
 
